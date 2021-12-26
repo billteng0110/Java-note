@@ -1,0 +1,31 @@
+//if的用法
+if(){
+}else if(){
+}else if(){
+}else{
+}
+
+//if輸入要等於字串
+if(輸入.equals("Strings")){
+  statement;
+}else if(......){
+  statement;
+}else{
+  statement;
+}
+
+//switch的用法
+switch(){
+case ... : //若是字串要""
+  Strings;
+  break;
+case ... :
+  Strings;
+  break;
+}
+
+//輸入的用法
+import java.util.*; 等於import java.util.Scammer;
+Scanner 例子=new Scanner(System.in);
+資料型態 輸入名子=例子.next型態();
+
