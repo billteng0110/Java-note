@@ -14,6 +14,13 @@ if(輸入.equals("Strings")){
   statement;
 }
 
+ * If usage2
+ * if((liter>=2)&(liter<5)){}
+ * if(liter>=2){
+ * if(liter<5){  //兩者是一樣的
+ * }
+ * }
+
 //switch的用法
 switch(){
 case ... : //若是字串要""
@@ -29,3 +36,9 @@ import java.util.*; 等於import java.util.Scammer;
 Scanner 例子=new Scanner(System.in);
 資料型態 輸入名子=例子.next型態();
 
+* do while usage
+ * int i=0;
+ * do{ //做那件是然後再去判斷
+ * System.out.println("fuck off");
+ * }while(i++<3);//這邊不一樣要分號
+ * 
